@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596575104007",
+    "project_id": "pet-world-22b04",
+    "storage_bucket": "pet-world-22b04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596575104007:android:68a097350ef92ef3590ea2",
+        "android_client_info": {
+          "package_name": "com.gp2.petworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596575104007-h1dleh087lft1jv1uusg16v8fnr5v87i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKIlNk5DxhZJnNWAs8jvxjjVJsiZ2KH6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596575104007-h1dleh087lft1jv1uusg16v8fnr5v87i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
